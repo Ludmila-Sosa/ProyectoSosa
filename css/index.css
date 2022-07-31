@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+
+.navBar{
+    background-color: #ef9ca4;
+    font-size: x-large;
+    display: flex;
+    justify-content: center;
+}
+
+.subTitle{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+
