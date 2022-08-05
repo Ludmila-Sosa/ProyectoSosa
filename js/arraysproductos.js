@@ -39,6 +39,7 @@ function listaProductos(){
     productos.push(new Producto(3485, "ÁLBUM ODDINARY", 15000))
     productos.push(new Producto(4587,"ÁLBUM NOEASY", 10000))
     productos.push(new Producto(5837,"REMERA PERSONALIZADA SKZ",2500))
+    console.table(productos)
 }
 
 function recorrerProductos(){
