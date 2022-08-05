@@ -3,18 +3,16 @@
     padding: 0;
   }
 
-.navBar{
+.navbar{
     background-color: #ef9ca4;
-    font-size: x-large;
-    display: flex;
-    justify-content: center;
 }
 
-.subTitle{
-    padding-top: 10px;
-    padding-bottom: 10px;
+.tituloprin{
     display: flex;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    color: #a18093;
 }
 
 
