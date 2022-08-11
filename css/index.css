@@ -15,4 +15,15 @@
     color: #a18093;
 }
 
+.cards{
+    background-color: #dcf7f3;
+    border: 2px solid white ;
+}
+
+.cardsContenedor{
+    gap: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
 
